@@ -22,6 +22,8 @@ Roughly thirty years in IT, starting out as a mainframe systems programmer, by w
 
 ### [tldr-glance](https://github.com/Maldaror/tldr-glance)
 
+<img src="./assets/tldr-glance.png" alt="tldr-glance terminal UI showing TLDR AI newsletter articles with summary details" width="100%">
+
 A fast terminal UI for daily-scanning the [TLDR](https://tldr.tech) newsletters. Fetches issues straight into the terminal and shows every article's summary immediately instead of requiring a click per row — fully keyboard-driven.
 
 <sub>Rust · ratatui · crossterm</sub>

@@ -18,13 +18,19 @@ Roughly thirty years in IT, starting out as a mainframe systems programmer, by w
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## Featured project
+## Featured projects
 
 ### [tldr-glance](https://github.com/Maldaror/tldr-glance)
 
 A fast terminal UI for daily-scanning the [TLDR](https://tldr.tech) newsletters. Fetches issues straight into the terminal and shows every article's summary immediately instead of requiring a click per row — fully keyboard-driven.
 
 <sub>Rust · ratatui · crossterm</sub>
+
+### [kontra-ki](https://github.com/Maldaror/kontra-ki)
+
+An MCP server that sends ideas, designs, or code to an independent local LLM (via LM Studio) for adversarial review before presenting them as finished — a devil's advocate for coding agents. Seven personas with different failure modes to hunt for, from a paranoid code auditor to one that audits *responses themselves* for unearned praise and softened risk.
+
+<sub>Python · MCP · httpx</sub>
 
 ## Stats
 
